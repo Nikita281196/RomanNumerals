@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demonstration", "Demonstration\Demonstration.csproj", "{1A26B638-1B38-411B-A767-EF941053A3F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeric", "RomanNumeric\RomanNumeric.csproj", "{62EED4D0-A80B-4475-A005-D72153107491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demonstration", "Demonstration\Demonstration.csproj", "{74D63149-6CFE-43FD-8E09-A2649D698290}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1A26B638-1B38-411B-A767-EF941053A3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1A26B638-1B38-411B-A767-EF941053A3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1A26B638-1B38-411B-A767-EF941053A3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1A26B638-1B38-411B-A767-EF941053A3F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62EED4D0-A80B-4475-A005-D72153107491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62EED4D0-A80B-4475-A005-D72153107491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62EED4D0-A80B-4475-A005-D72153107491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62EED4D0-A80B-4475-A005-D72153107491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D63149-6CFE-43FD-8E09-A2649D698290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D63149-6CFE-43FD-8E09-A2649D698290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D63149-6CFE-43FD-8E09-A2649D698290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D63149-6CFE-43FD-8E09-A2649D698290}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
