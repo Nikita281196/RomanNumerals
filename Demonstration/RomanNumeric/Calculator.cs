@@ -36,13 +36,13 @@ namespace RomanNumeric
 
             var place = 10;
             var result = new StringBuilder();
-            while (arabicResult / place != 0)
+            while (arabicResult != 0)
             {
                 var number = arabicResult % place;
                 place *= 10;
                 arabicResult -= number;
                 if (number == 0) continue;
-                result.Append(_pairsOfNumbers.FirstOrDefault(x => x.Value == number).Key);
+                result.Insert(0, _pairsOfNumbers.FirstOrDefault(x => x.Value == number).Key);
             }
             return result.ToString();
         }
