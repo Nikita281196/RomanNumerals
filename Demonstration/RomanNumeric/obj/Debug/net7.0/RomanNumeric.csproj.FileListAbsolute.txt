@@ -1,0 +1,12 @@
+C:\Users\Никита\Desktop\Тестовое\Demonstration\RomanNumeric\bin\Debug\net7.0\RomanNumeric.deps.json
+C:\Users\Никита\Desktop\Тестовое\Demonstration\RomanNumeric\bin\Debug\net7.0\RomanNumeric.dll
+C:\Users\Никита\Desktop\Тестовое\Demonstration\RomanNumeric\bin\Debug\net7.0\RomanNumeric.pdb
+C:\Users\Никита\Desktop\Тестовое\Demonstration\RomanNumeric\obj\Debug\net7.0\RomanNumeric.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\Тестовое\Demonstration\RomanNumeric\obj\Debug\net7.0\RomanNumeric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\Тестовое\Demonstration\RomanNumeric\obj\Debug\net7.0\RomanNumeric.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\Тестовое\Demonstration\RomanNumeric\obj\Debug\net7.0\RomanNumeric.AssemblyInfo.cs
+C:\Users\Никита\Desktop\Тестовое\Demonstration\RomanNumeric\obj\Debug\net7.0\RomanNumeric.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Тестовое\Demonstration\RomanNumeric\obj\Debug\net7.0\RomanNumeric.dll
+C:\Users\Никита\Desktop\Тестовое\Demonstration\RomanNumeric\obj\Debug\net7.0\refint\RomanNumeric.dll
+C:\Users\Никита\Desktop\Тестовое\Demonstration\RomanNumeric\obj\Debug\net7.0\RomanNumeric.pdb
+C:\Users\Никита\Desktop\Тестовое\Demonstration\RomanNumeric\obj\Debug\net7.0\ref\RomanNumeric.dll

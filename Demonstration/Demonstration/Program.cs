@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using RomanNumeric;
+
+var calculator = new Calculator();
+var result = Calculator.Evaluate("(MMMDCCXXIV - MMCCXXIX) * II");
+
+Console.WriteLine(result);
