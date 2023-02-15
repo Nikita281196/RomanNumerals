@@ -6,6 +6,13 @@ namespace RomanNumeric
 {
     public partial class Calculator
     {
+
+        /// <summary>
+        /// Roman equation calculation
+        /// </summary>
+        /// <param name="input">Roman equation</param>
+        /// <returns>Result of equation in roman type </returns>
+        /// <exception cref="Exception">roman numeral error</exception>
         public static string Evaluate(string input)
         {
             var arguments = _equrationRegex.Matches(input.ToUpper());
