@@ -35,12 +35,16 @@ namespace RomanNumeric
             if (arabicResult > 3999) throw new Exception("result more 3999");
 
             var place = 10;
-            while (arabicResult % 10 > 0)
+            var result = new StringBuilder();
+            while (arabicResult / place != 0)
             {
                 var number = arabicResult % place;
-                place *= place;
+                place *= 10;
+                arabicResult -= number;
+                if (number == 0) continue;
+                result.Append(_pairsOfNumbers.FirstOrDefault(x => x.Value == number).Key);
             }
-            return arabicResult.ToString();
+            return result.ToString();
         }
         private static double Calculate(string expression)
         {
